@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/bsdotrun",
   "VITE_SEO_SITE_NAME": "bullshit",
   "VITE_SEO_SITE_DESCRIPTION": "DEX powered by sum bullshit",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/bullshit-8320/",
+  "VITE_SEO_SITE_URL": "https://perps.bullshit.run",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@bsdotrun",
